@@ -85,6 +85,18 @@ ul li a:link {
 	text-decoration: none;
 }
 
+.resume {
+	text-align: center;
+	margin: auto;
+	font-size: 20px;
+}
+
+.resume-icon {
+	height: 40px;
+	width: 40px;
+	margin-bottom: 4px;
+}
+
 @media screen and (max-width: 767px) {
 	#portrait {
 		display: block;
